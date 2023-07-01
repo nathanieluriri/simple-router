@@ -36,6 +36,7 @@
     <div class="ritem"><div class="product-image"></div> <div class="product-description"><p class="prize">Prize</p> <p class="Product-name">Sofa</p></div></div>
     <div class="ritem"><div class="product-image"></div> <div class="product-description"><p class="prize">Prize</p> <p class="Product-name">Sofa</p></div></div>
     <div class="ritem"><div class="product-image"></div> <div class="product-description"><p class="prize">Prize</p> <p class="Product-name">Sofa</p></div></div>
+    <?php require("views/partials/pagination.php") ?>
 </div>
 <div class="collections-section"><div class="Bespoke-furniture"><h2>BESPOKE FURNITURE</h2> <h3>Collection</h3> <button>Shop Now</button></div> 
 <div class="Bespoke-interior"><h2>BESPOKE INTERIOR</h2> <h3>Collection</h3> <button>Shop Now</button></div>

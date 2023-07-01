@@ -5,14 +5,7 @@
 
 @media only screen and (max-width: 1080px)
  {
-    h3{
-font-family: 'Source Code Pro', monospace;
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 14px;
 
-    }
 p
 {
     font-family: 'Source Serif 4', serif;
@@ -231,9 +224,19 @@ body{
         font-size: 14px;
     
         }
+.Recommendation-Component .title h3
+{
+text-align: center;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+}
+
 
 .Recommendation-Component{
-    
+    font-family: 'Poppins';
     gap: 0px;
     display: flex;
     flex-direction: column;
